@@ -1,4 +1,4 @@
-<h2>App cronometro/h2>
+<h2>App cronometro</h2>
 
 <p align="left">
     <img width=200px height=50% src="https://i.imgur.com/P3qyJWN.png" alt="cronometro executado" />
